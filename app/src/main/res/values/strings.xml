@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">utrobin_rk</string>
+    <string name="it">IT</string>
+    <string name="auto">Auto</string>
+    <string name="health">Health</string>
+    <string name="settings">Настройки</string>
+    <string name="no_background">Не обновлять в фоне</string>
+    <string name="background">Обновлять в фоне</string>
+    <string name="update">Обновить</string>
+</resources>
